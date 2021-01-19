@@ -1,0 +1,73 @@
+
+[
+    {
+        "data":"28/10/2020",
+        "empresa":"Mecanica Jorge",
+        "tipo":"debit",
+        "parcelas":3,
+        "valortotal":2356.69,
+        "valorpagseguro": 135.80,
+        "valormecpock":49.90,
+        "valorliquido":2041.19,
+        "status": "divergente"
+                
+    },
+    {
+        "data":"28/10/2020",
+        "empresa":"Mecanica Jorge",
+        "tipo":"debit",
+        "parcelas":12,
+        "valortotal":798.30,
+        "valorpagseguro": 89.90,
+        "valormecpock":20.69,
+        "valorliquido":687.71,
+        "status": 0
+                
+    },
+    {
+        "data":"28/10/2020",
+        "empresa":"Mecanica Jorge",
+        "tipo":"debit",
+        "parcelas":12,
+        "valortotal":798.30,
+        "valorpagseguro": 89.90,
+        "valormecpock":20.69,
+        "valorliquido":687.71,
+        "status": 0
+                
+    },
+    {
+        "data":"28/10/2020",
+        "empresa":"Mecanica Jorge",
+        "tipo":"debit",
+        "parcelas":12,
+        "valortotal":798.30,
+        "valorpagseguro": 89.90,
+        "valormecpock":20.69,
+        "valorliquido":687.71,
+        "status": 0
+                
+    },  {
+        "data":"28/10/2020",
+        "empresa":"Mecanica Jorge",
+        "tipo":"debit",
+        "parcelas":12,
+        "valortotal":798.30,
+        "valorpagseguro": 89.90,
+        "valormecpock":20.69,
+        "valorliquido":687.71,
+        "status": 0
+                
+    },  {
+        "data":"28/10/2020",
+        "empresa":"Mecanica Jorge",
+        "tipo":"debit",
+        "parcelas":12,
+        "valortotal":798.30,
+        "valorpagseguro": 89.90,
+        "valormecpock":20.69,
+        "valorliquido":687.71,
+        "status": 0
+                
+    }
+]
